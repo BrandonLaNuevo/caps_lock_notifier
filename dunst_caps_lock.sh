@@ -1,5 +1,4 @@
 #!/bin/bash
-#lockkey.sh
 
 sleep 0.2
 
